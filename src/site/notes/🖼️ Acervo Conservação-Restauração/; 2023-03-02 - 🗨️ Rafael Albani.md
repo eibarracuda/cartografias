@@ -39,7 +39,7 @@ Videos 360º: 0
 
 ***
 ## Videos deste canal analisados:
-| File                                                                                                                                                                                                         | Criado em        | Modificado       | Tema             | Tipo  | Canal         |
+| Arquivo                                                                                                                                                                                                      | Criado em        | Modificado       | Tema             | Tipo  | Canal         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ------------- |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ VORTEX - Processo de restauração de arte  Art Conservation\|+ 2023-02-27   -  🎥️ VORTEX - Processo de restauração de arte  Art Conservation]] | 2023-02-27 15:41 | 2023-07-02 14:13 | Levantamento TCC | video | Rafael Albani |
 
@@ -52,7 +52,7 @@ Videos 360º: 0
 de, Holy Mary, Catholic, Christ, Jesus, Christianity, Pope, Portugal, Maria, covid19, Ao Vivo, Mim, Niterói, Forfun
 
 ### Usadas nos vídeos sobre restauração deste canal
-| File                                                                                                                                                                                                         | Titulo                                                                        | Tags usadas                                                                                                                                                                                |
+| Arquivo                                                                                                                                                                                                      | Titulo                                                                        | Tags usadas                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ VORTEX - Processo de restauração de arte  Art Conservation\|+ 2023-02-27   -  🎥️ VORTEX - Processo de restauração de arte  Art Conservation]] | <ul><li>VORTEX - Processo de restauração de arte / Art Conservation</li></ul> | <ul><li>arte</li><li>art</li><li>conservação</li><li>restauração</li><li>conservation</li><li>vortex</li><li>imaginarium</li><li>Art Restoration</li><li>Processo de Restauração</li></ul> |
 
