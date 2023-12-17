@@ -43,7 +43,7 @@ Vídeos 3D: 0
 
 ***
 ## Videos deste canal analisados:
-| File                                                                                                                                                                                                                                                       | Criado em        | Modificado       | Tema             | Tipo  | Canal      |
+| Arquivo                                                                                                                                                                                                                                                    | Criado em        | Modificado       | Tema             | Tipo  | Canal      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ---------- |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves\|+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves]] | 2023-03-06 16:30 | 2023-07-02 14:13 | Levantamento TCC | video | TV Correio |
 
@@ -56,7 +56,7 @@ Vídeos 3D: 0
 TV Correio, Paraíba, João Pessoa, Afiliada Record, SomosComoVocê, Programa, Notícias, TV, Fatos policiais, Entrevistas, Televisão, Campina Grande, Fatos políticos, Correio Debate, Hermes de Luna
 
 ### Usadas nos vídeos sobre restauração deste canal
-| File                                                                                                                                                                                                                                                       | Titulo                                                                            | Tags usadas                                                                                                    |
+| Arquivo                                                                                                                                                                                                                                                    | Titulo                                                                            | Tags usadas                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves\|+ 2023-02-27   -  🎥️ Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves]] | Continua o trabalho de restauração da torre da igreja de São Frei Pedro Gonçalves | <ul><li>João Pessoa</li><li>TV Correio</li><li>Afiliada Record</li><li>Paraíba</li><li>SomosComoVocê</li></ul> |
 
