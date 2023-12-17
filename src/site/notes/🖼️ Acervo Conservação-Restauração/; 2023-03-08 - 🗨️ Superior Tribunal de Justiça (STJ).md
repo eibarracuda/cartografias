@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-08-superior-tribunal-de-justica-stj/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Superior Tribunal de Justiça (STJ)/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
