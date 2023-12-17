@@ -44,7 +44,7 @@ Videos 360º: 0
 
 ***
 ## Videos deste canal analisados:
-| File                                                                                                                           | Criado em        | Modificado       | Tema             | Tipo  | Canal            |
+| Arquivo                                                                                                                        | Criado em        | Modificado       | Tema             | Tipo  | Canal            |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | ---------------- | ----- | ---------------- |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO\|+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO]] | 2023-02-27 14:49 | 2023-07-02 14:13 | Levantamento TCC | video | Eduardo Petrella |
 
@@ -57,7 +57,7 @@ Videos 360º: 0
 ciclista, bicicleta, reportagem
 
 ### Usadas nos vídeos sobre restauração deste canal
-| File                                                                                                                           | Titulo              | Tags usadas |
+| Arquivo                                                                                                                        | Titulo              | Tags usadas |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ----------- |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO\|+ 2023-02-27   -  🎥️ ARTE DA RESTAURAÇÃO]] | ARTE DA RESTAURAÇÃO | \-          |
 
