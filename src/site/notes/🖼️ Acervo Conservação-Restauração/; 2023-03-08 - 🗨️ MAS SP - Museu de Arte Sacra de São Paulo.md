@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-08-mas-sp-museu-de-arte-sacra-de-sao-paulo/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ MAS SP - Museu de Arte Sacra de São Paulo/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
