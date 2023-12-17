@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-08-atelie-arte-e-restauracao/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Ateliê, Arte e Restauração/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
