@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos-levantados/","tags":["nav"]}
+{"dg-publish":true,"permalink":"/Videos levantados/","tags":["nav"]}
 ---
 
 
