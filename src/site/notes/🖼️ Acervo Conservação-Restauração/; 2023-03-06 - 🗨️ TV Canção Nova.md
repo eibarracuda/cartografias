@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-06-tv-cancao-nova/","tags":["🖼️/🗨️️"]}
+{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-06 - 🗨️ TV Canção Nova/","tags":["🖼️/🗨️️"]}
 ---
 
 >[!abstract]+ Sobre
