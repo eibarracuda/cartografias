@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/canais-levantados/","tags":["nav"]}
+{"dg-publish":true,"permalink":"/Canais levantados/","tags":["nav"]}
 ---
 
 
