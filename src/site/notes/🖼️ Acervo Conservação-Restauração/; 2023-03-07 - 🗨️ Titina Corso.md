@@ -45,7 +45,7 @@ Videos 360º: 0
 
 ***
 ## Videos deste canal analisados:
-| File                                                                                                                                                                       | Criado em        | Modificado       | Tema             | Tipo  | Canal        |
+| Arquivo                                                                                                                                                                    | Criado em        | Modificado       | Tema             | Tipo  | Canal        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ------------ |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Restauração de São Francisco\|+ 2023-02-27   -  🎥️ Restauração de São Francisco]]                           | 2023-02-27 15:29 | 2023-07-02 14:13 | Levantamento TCC | video | Titina Corso |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauro do Pastor\|+ 2023-03-07   -  🎥️ Restauro do Pastor]]                                               | 2023-03-07 20:19 | 2023-07-02 14:13 | Levantamento TCC | video | Titina Corso |
@@ -65,7 +65,7 @@ Videos 360º: 0
 arte sacra, arte, Titina Corso, Titina, Conservação, conservação, educação, Arte Sacra, exposição, Atelier, imagem sacra, Corso, escultura, restauração, pintura
 
 ### Usadas nos vídeos sobre restauração deste canal
-| File                                                                                                                                                                       | Titulo                                    | Tags usadas                                                                                                                     |
+| Arquivo                                                                                                                                                                    | Titulo                                    | Tags usadas                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Restauração de São Francisco\|+ 2023-02-27   -  🎥️ Restauração de São Francisco]]                           | Restauração de São Francisco              | <ul><li>Created by Filmix</li></ul>                                                                                             |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-03-07   -  🎥️ Restauro do Pastor\|+ 2023-03-07   -  🎥️ Restauro do Pastor]]                                               | Restauro do Pastor                        | <ul><li>restauro</li><li>imagem sacra</li><li>arte sacra</li><li>conservação</li><li>pastor de presépio</li></ul>               |
