@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-02-unisul-universidade/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Unisul Universidade/","tags":["🖼️/🗨️"]}
 ---
 
 
