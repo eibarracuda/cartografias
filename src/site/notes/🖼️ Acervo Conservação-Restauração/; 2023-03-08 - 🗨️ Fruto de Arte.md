@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-08-fruto-de-arte/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Fruto de Arte/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
