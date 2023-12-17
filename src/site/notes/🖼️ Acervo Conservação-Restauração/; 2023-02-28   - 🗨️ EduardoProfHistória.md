@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-02-28-eduardo-prof-historia/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-02-28   - 🗨️ EduardoProfHistória/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
