@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Arte da Restauração/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-10-arte-da-restauracao/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
 >- `Titulo da nota:`  [[🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Arte da Restauração\|; 2023-03-10 - 🗨️ Arte da Restauração]]
->- `Tipo:`  [[;\|;]]
+>- `Tipo:`  [[XX. Obsidian/Templates/Z/;\|;]]
 >- ` URL:`   [Link](http://www.youtube.com/@artedarestauracao4176)
 >- `Tema:`   Canais com conteudo de Conservação-Restauração
 >- ` Contexto: ` Pesquisa TCC pós - canal novo, repostagem de videos gringos sem falas, apenas processos
