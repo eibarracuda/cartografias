@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/Navegação dos vídeos por tema/","tags":["nav"]}
+{"dg-publish":true,"permalink":"/navegacao-dos-videos-por-tema/","tags":["nav"]}
 ---
 
