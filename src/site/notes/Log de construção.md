@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Log de construção/","tags":["construcao"]}
+{"dg-publish":true,"permalink":"/log-de-construcao/","tags":["construcao"]}
 ---
 
 
@@ -24,4 +24,5 @@
 
 
 ## Metas
+
 
