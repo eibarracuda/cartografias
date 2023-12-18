@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-06 - 🗨️ TV Correio/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-06-tv-correio/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
 >- `Titulo da nota:`  [[🖼️ Acervo Conservação-Restauração/; 2023-03-06 - 🗨️ TV Correio\|; 2023-03-06 - 🗨️ TV Correio]]
->- `Tipo:`  [[;\|;]]
+>- `Tipo:`  [[XX. Obsidian/Templates/Z/;\|;]]
 >- ` URL:`  [TV Correio - YouTube](http://www.youtube.com/@TVCorreioOficial)
 >- `Tema:`  Canais com conteudo de Conservação-Restauração
 >- ` Contexto:` Pesquisa TCC pós
