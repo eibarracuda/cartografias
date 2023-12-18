@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Rafael Albani/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-02-rafael-albani/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
 >- `Titulo da nota:`  [[🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Rafael Albani\|; 2023-03-02 - 🗨️ Rafael Albani]]
->- `Tipo:`  [[;\|;]]
+>- `Tipo:`  [[XX. Obsidian/Templates/Z/;\|;]]
 >- ` URL:`  [Link](http://www.youtube.com/@ralbani)
 
 ***
