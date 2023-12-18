@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Fruto de Arte/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-08-fruto-de-arte/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
 >- `Titulo da nota:`  [[🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Fruto de Arte\|; 2023-03-08 - 🗨️ Fruto de Arte]]
->- `Tipo:`  [[;\|;]]
+>- `Tipo:`  [[XX. Obsidian/Templates/Z/;\|;]]
 >- ` URL:`  [Fruto de Arte Materiais Artísticos - YouTube](http://www.youtube.com/@frutodearte)
 >- `Tema:`  Canais com conteudo de Conservação-Restauração
 >- ` Contexto: ` Pesquisa TCC pós
@@ -46,8 +46,8 @@ Videos 360º: 0
 | Arquivo                                                                                                                                                                                | Criado em        | Modificado       | Tema             | Tipo  | Canal                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ---------------------------------- |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conservação e Restauração de Documentos\|+ 2023-02-27   -  🎥️ Conservação e Restauração de Documentos]]                 | 2023-02-27 15:02 | 2023-07-02 14:13 | Levantamento TCC | video | Fruto de Arte Materiais Artísticos |
-| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco\|+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco]] | 2023-03-08 14:38 | 2023-07-02 14:13 | Levantamento TCC | video | Fruto de Arte Materiais Artísticos |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Papel para Restauração e Conservação Tengujo\|+ 2023-03-08   -  🎥️ Papel para Restauração e Conservação Tengujo]]       | 2023-03-08 14:37 | 2023-07-02 14:13 | Levantamento TCC | video | Fruto de Arte Materiais Artísticos |
+| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco\|+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco]] | 2023-03-08 14:38 | 2023-07-02 14:13 | Levantamento TCC | video | Fruto de Arte Materiais Artísticos |
 
 { .block-language-dataview}
 ***
@@ -60,8 +60,8 @@ fruto de arte, aquarela, caligrafia, material artístico, material de desenho, c
 | Arquivo                                                                                                                                                                                | Titulo                                          | Tags usadas                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conservação e Restauração de Documentos\|+ 2023-02-27   -  🎥️ Conservação e Restauração de Documentos]]                 | Conservação e Restauração de Documentos         | <ul><li>conservação de documentos</li><li>preservação de documentos</li><li>limpeza de documentos</li><li>lineco</li></ul>                              |
-| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco\|+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco]] | Materiais para Restauração e Conservação Lineco | <ul><li>papel tengujo</li><li>papel para restauração</li><li>papel para conservação</li><li>papel</li><li>fruto de arte</li><li>papel japonês</li></ul> |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Papel para Restauração e Conservação Tengujo\|+ 2023-03-08   -  🎥️ Papel para Restauração e Conservação Tengujo]]       | Papel para Restauração e Conservação Tengujo    | <ul><li>papel tengujo</li><li>papel para restauração</li><li>papel para conservação</li><li>papel</li><li>fruto de arte</li><li>papel japonês</li></ul> |
+| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco\|+ 2023-03-08   -  🎥️ Materiais para Restauração e Conservação Lineco]] | Materiais para Restauração e Conservação Lineco | <ul><li>papel tengujo</li><li>papel para restauração</li><li>papel para conservação</li><li>papel</li><li>fruto de arte</li><li>papel japonês</li></ul> |
 
 { .block-language-dataview}
 
