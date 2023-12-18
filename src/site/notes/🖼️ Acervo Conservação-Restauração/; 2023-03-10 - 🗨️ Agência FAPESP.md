@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Agência FAPESP/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-10-agencia-fapesp/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
 >- `Titulo da nota:`  [[🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Agência FAPESP\|; 2023-03-10 - 🗨️ Agência FAPESP]]
->- `Tipo:`  [[;\|;]]
+>- `Tipo:`  [[XX. Obsidian/Templates/Z/;\|;]]
 >- ` URL:` http://www.youtube.com/@fapespagencia
 >- `Tema:`  Canais com conteudo de Conservação-Restauração
 >- ` Contexto: ` Pesquisa TCC pós
