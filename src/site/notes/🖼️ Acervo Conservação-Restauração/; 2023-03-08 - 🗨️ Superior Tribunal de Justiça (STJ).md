@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Superior Tribunal de Justiça (STJ)/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-08-superior-tribunal-de-justica-stj/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
 >- `Titulo da nota:`  [[🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Superior Tribunal de Justiça (STJ)\|; 2023-03-08 - 🗨️ Superior Tribunal de Justiça (STJ)]]
->- `Tipo:`  [[;\|;]]
+>- `Tipo:`  [[XX. Obsidian/Templates/Z/;\|;]]
 >- ` URL:`  [Superior Tribunal de Justiça (STJ) - YouTube](http://www.youtube.com/@stjnoticias)
 >- `Tema:`  Canais com conteudo de Conservação-Restauração
 >- ` Contexto: ` Pesquisa TCC pós
