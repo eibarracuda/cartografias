@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Eduardo Petrella/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-10-eduardo-petrella/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
 >- `Titulo da nota:`  [[🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Eduardo Petrella\|; 2023-03-10 - 🗨️ Eduardo Petrella]]
->- `Tipo:`  [[;\|;]]
+>- `Tipo:`  [[XX. Obsidian/Templates/Z/;\|;]]
 >- ` URL:`  [Link](http://www.youtube.com/@eduardopetrella6889)
 >- `Tema:`  Canais com conteudo de Conservação-Restauração
 >- ` Contexto: `  Pesquisa TCC pós
