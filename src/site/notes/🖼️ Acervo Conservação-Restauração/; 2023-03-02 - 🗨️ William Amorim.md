@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ William Amorim/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-02-william-amorim/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
 >- `Titulo da nota:`  [[🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ William Amorim\|; 2023-03-02 - 🗨️ William Amorim]]
->- `Tipo:`  [[;\|;]]
+>- `Tipo:`  [[XX. Obsidian/Templates/Z/;\|;]]
 >- ` URL:`  [[🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ William Amorim\|; 2023-03-02 - 🗨️ William Amorim]] - [Link](http://www.youtube.com/@williamamorim2008)
 >- `Tema:`  Canais com conteudo de Conservação-Restauração
 >- ` Contexto: ` Pesquisa TCC pós
@@ -47,10 +47,10 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                                                                                          | Criado em        | Modificado       | Tema             | Tipo  | Canal          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | -------------- |
-| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.\|+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.]]                                                   | 2023-03-02 18:37 | 2023-07-02 14:13 | Levantamento TCC | video | William Amorim |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de objetos sacros.\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de objetos sacros.]]                                                                                         | 2023-03-02 16:26 | 2023-07-02 14:13 | Levantamento TCC | video | William Amorim |
-| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.\|+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.]] | 2023-03-02 18:16 | 2023-07-02 14:13 | Levantamento TCC | video | William Amorim |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.\|+ 2023-02-27   -  🎥️ Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.]]                         | 2023-02-27 15:49 | 2023-07-02 14:13 | Levantamento TCC | video | William Amorim |
+| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.\|+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.]]                                                   | 2023-03-02 18:37 | 2023-07-02 14:13 | Levantamento TCC | video | William Amorim |
+| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.\|+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.]] | 2023-03-02 18:16 | 2023-07-02 14:13 | Levantamento TCC | video | William Amorim |
 
 { .block-language-dataview}
 ***
@@ -66,10 +66,10 @@ Gospel, gospel, Música gospel, Jornal do Maranhão, Betel, Maranhão, Notícias
 ### Usadas nos vídeos sobre restauração deste canal
 | Arquivo                                                                                                                                                                                                                                                                          | Titulo                                                                                                         | Tags usadas |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.\|+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.]]                                                   | Antiga estação ferroviária da REFFSA é inaugurada após restauração.                                            | \-          |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Conheça a arte da restauração de objetos sacros.\|+ 2023-02-27   -  🎥️ Conheça a arte da restauração de objetos sacros.]]                                                                                         | Conheça a arte da restauração de objetos sacros.                                                               | \-          |
-| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.\|+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.]] | <ul><li>MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.</li></ul> | \-          |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.\|+ 2023-02-27   -  🎥️ Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.]]                         | Obras danificadas em ataque aos prédios dos Três Poderes passam por restauração.                               | \-          |
+| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.\|+ 2023-03-02   -  🎥️ Antiga estação ferroviária da REFFSA é inaugurada após restauração.]]                                                   | Antiga estação ferroviária da REFFSA é inaugurada após restauração.                                            | \-          |
+| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.\|+ 2023-03-02   -  🎥️ MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.]] | <ul><li>MPF consegue decisão que determina à UFMA restauração e conservação do Palácio das Lágrimas.</li></ul> | \-          |
 
 { .block-language-dataview}
 
