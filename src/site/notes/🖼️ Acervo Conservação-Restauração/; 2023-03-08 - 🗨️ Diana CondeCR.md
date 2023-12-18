@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Diana CondeCR/","tags":["🖼️/🗨️"]}
+{"dg-publish":true,"permalink":"/acervo-conservacao-restauracao/2023-03-08-diana-conde-cr/","tags":["🖼️/🗨️"]}
 ---
 
 >[!abstract]+ Sobre
 >- `Titulo da nota:`  [[🖼️ Acervo Conservação-Restauração/; 2023-03-08 - 🗨️ Diana CondeCR\|; 2023-03-08 - 🗨️ Diana CondeCR]]
->- `Tipo:`  [[;\|;]]
+>- `Tipo:`  [[XX. Obsidian/Templates/Z/;\|;]]
 >- ` URL:`  [Link](http://www.youtube.com/@dianacondecr4735)
 >- `Tema:`  Canais com conteudo de Conservação-Restauração
 >- ` Contexto: ` Pesquisa TCC pós
@@ -45,8 +45,8 @@ Videos 360º: 0
 ## Videos deste canal analisados:
 | Arquivo                                                                                                                                                                                                                                      | Criado em        | Modificado       | Tema             | Tipo  | Canal         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | ---------------- | ----- | ------------- |
-| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde\|+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde]]                                                                                     | 2023-03-08 16:42 | 2023-07-02 14:13 | Levantamento TCC | video | Diana CondeCR |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish\|+ 2023-02-27   -  🎥️ Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish]] | 2023-02-27 15:01 | 2023-07-02 14:13 | Levantamento TCC | video | Diana CondeCR |
+| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde\|+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde]]                                                                                     | 2023-03-08 16:42 | 2023-07-02 14:13 | Levantamento TCC | video | Diana CondeCR |
 
 { .block-language-dataview}
 ***
@@ -59,8 +59,8 @@ pintura, restauro, conservação e restauro de pintura, paintings restoration, v
 ### Usadas nos vídeos sobre restauração deste canal
 | Arquivo                                                                                                                                                                                                                                      | Titulo                                                                                       | Tags usadas                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde\|+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde]]                                                                                     | Restauro de pintura- Diana Conde                                                             | <ul><li>pintura</li><li>restauro</li><li>conservação e restauro de pintura</li><li>paintings restoration</li><li>varnish cleaning</li></ul> |
 | [[🖼️ Acervo Conservação-Restauração/+ 2023-02-27   -  🎥️ Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish\|+ 2023-02-27   -  🎥️ Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish]] | <ul><li>Limpeza do verniz oxidado de uma pintura - Cleaning a painting old varnish</li></ul> | <ul><li>Restauro de pintura</li><li>limpeza de verniz</li><li>cleaning a painting</li><li>old varnish cleaning</li></ul>                    |
+| [[🖼️ Acervo Conservação-Restauração/+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde\|+ 2023-03-08   -  🎥️ Restauro de pintura- Diana Conde]]                                                                                     | Restauro de pintura- Diana Conde                                                             | <ul><li>pintura</li><li>restauro</li><li>conservação e restauro de pintura</li><li>paintings restoration</li><li>varnish cleaning</li></ul> |
 
 { .block-language-dataview}
 
