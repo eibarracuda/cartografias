@@ -26,9 +26,9 @@
 > **Tags usadas:** bolor nos livros,mofo nos livros,como retirar mofo dos livros,como retirar bolor dos livros,como tirar mofo dos livros,como tirar bolor dos livros,como tirar fungos dos livros,livros mofados,livros embolorados,livros com fungos,livros com cheiro ruim,limpeza dos livros,como tirar mofo de livros,mofo livros tirar,como cuido dos meus livros,clarear livro,limpar livros,clareando livro,como limpar livro,restauração de livro,livro mofado o que fazer
 
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Não possui legendas</div></div></div></span></p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="success" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Possui legendas</div></div></div></span></p>
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Este video não é monetizado</div></div></div></span></p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Este video não é monetizado</div></div></div></span></p>
 
 
 

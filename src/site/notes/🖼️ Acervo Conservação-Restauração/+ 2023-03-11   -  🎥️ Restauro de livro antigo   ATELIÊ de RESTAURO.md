@@ -26,9 +26,9 @@
 > **Tags usadas:** restauro,restaurar,livro,curso de restauro,como restaurar livro,livro comido por inseto,recuperar livro,salvar livro,reparo de livro,restauro de papel,papel de trapo,patrimonio,conservação,cristina sanches,restaurador,enxerto de papel japonês,limpeza de livro velho,ateliê de restauro,restauro de livros,restauro de livros antigos
 
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Não possui legendas</div></div></div></span></p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Não possui legendas</div></div></div></span></p>
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Este video não é monetizado</div></div></div></span></p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Este video não é monetizado</div></div></div></span></p>
 
 
 

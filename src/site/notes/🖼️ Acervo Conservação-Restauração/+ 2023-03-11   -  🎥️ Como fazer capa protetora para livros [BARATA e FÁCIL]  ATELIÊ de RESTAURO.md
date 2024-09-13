@@ -27,9 +27,9 @@
 > **Tags usadas:** conservação,cristina sanches,restaurador,restauro e preservacao,conservar obras de arte,reserva tecnica,conservacao preventiva,biblioteconomia,arquivologia,museologia,restauro e conservação,como cuidar dos livros,como proteger os livros,como proteger minha biblioteca,como fazer capa para livro,como conservar seus livros,restauro de livros,como fazer jacket para livros
 
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Não possui legendas</div></div></div></span></p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Não possui legendas</div></div></div></span></p>
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Este video não é monetizado</div></div></div></span></p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Este video não é monetizado</div></div></div></span></p>
 
 
 

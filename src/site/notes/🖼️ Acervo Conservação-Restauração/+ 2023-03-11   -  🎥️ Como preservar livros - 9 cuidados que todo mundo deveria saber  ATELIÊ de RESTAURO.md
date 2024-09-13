@@ -26,9 +26,9 @@
 > **Tags usadas:** conservação,cristina sanches,restaurador,como cuidar dos livros,como cuidar melhor de livros,minha coleção de livros,cuidar da biblioteca,limpar a biblioteca,anatomia dos livros,partes dos livros,cuidados com as capas dos livros,dicas para cuidar de livros,conservação de biblioteca,biblioteca pessoal,conservação de livros,curso de restauro de livros,aula de restauro de livros,como conservar melhor os livros,melhor lugar para deixar os livros,limpesa de livros
 
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Não possui legendas</div></div></div></span></p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Não possui legendas</div></div></div></span></p>
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Este video não é monetizado</div></div></div></span></p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Este video não é monetizado</div></div></div></span></p>
 
 
 

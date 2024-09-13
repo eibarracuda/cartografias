@@ -27,9 +27,9 @@
 > **Tags usadas:** conservação,cristina sanches,restaurador,restauro e preservacao,como fazer papel reciclado,como fazer papel artesanal,como reciclar papel,como fazer papel,papel ecológico,o que fazer com papel velho,como reutilizar papel velho,quero papel reciclado,onde consigo papel reciclado,fazer papel com crianças,reciclagem para crianças,fazer papel com peneira,mais facil que manual do mundo,quem faz papel reciclado
 
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Não possui legendas</div></div></div></span></p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Não possui legendas</div></div></div></span></p>
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Este video não é monetizado</div></div></div></span></p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="failure" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Este video não é monetizado</div></div></div></span></p>
 
 
 

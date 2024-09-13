@@ -29,12 +29,12 @@
 | [[🖼️ Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ ministeriopublicosc\|; 2023-03-07 - 🗨️ ministeriopublicosc]]                                             | <ul><li>Institucional</li></ul>               | 2                        |
 | [[🖼️ Acervo Conservação-Restauração/; 2023-03-10 - 🗨️ Agência FAPESP\|; 2023-03-10 - 🗨️ Agência FAPESP]]                                                       | <ul><li>Institucional</li></ul>               | 1                        |
 | [[🖼️ Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ Tudor Brasil\|; 2023-03-07 - 🗨️ Tudor Brasil]]                                                           | <ul><li>História</li></ul>                    | 1                        |
+| [[🖼️ Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ Olha aí Br\|; 2023-03-07 - 🗨️ Olha aí Br]]                                                               | <ul><li>Entretenimento</li></ul>              | 1                        |
 | [[🖼️ Acervo Conservação-Restauração/; 2023-03-06 - 🗨️ UNIVESP\|; 2023-03-06 - 🗨️ UNIVESP]]                                                                     | Institucional                                 | 1                        |
 | [[🖼️ Acervo Conservação-Restauração/; 2023-03-06 - 🗨️ TVUNIMEP\|; 2023-03-06 - 🗨️ TVUNIMEP]]                                                                   | <ul><li>Institucional</li></ul>               | 1                        |
-| [[🖼️ Acervo Conservação-Restauração/; 2023-03-07 - 🗨️ Olha aí Br\|; 2023-03-07 - 🗨️ Olha aí Br]]                                                               | <ul><li>Entretenimento</li></ul>              | 1                        |
 | [[🖼️ Acervo Conservação-Restauração/; 2023-03-06 - 🗨️ TV Correio\|; 2023-03-06 - 🗨️ TV Correio]]                                                               | <ul><li>Jornalismo</li></ul>                  | 1                        |
-| [[🖼️ Acervo Conservação-Restauração/; 2023-02-28   - 🗨️ EduardoProfHistória\|; 2023-02-28   - 🗨️ EduardoProfHistória]]                                         | <ul><li>História</li></ul>                    | 1                        |
 | [[🖼️ Acervo Conservação-Restauração/; 2023-03-02 - 🗨️ Rafael Albani\|; 2023-03-02 - 🗨️ Rafael Albani]]                                                         | <ul><li>Religião</li></ul>                    | 1                        |
+| [[🖼️ Acervo Conservação-Restauração/; 2023-02-28   - 🗨️ EduardoProfHistória\|; 2023-02-28   - 🗨️ EduardoProfHistória]]                                         | <ul><li>História</li></ul>                    | 1                        |
 
 { .block-language-dataview}
 
